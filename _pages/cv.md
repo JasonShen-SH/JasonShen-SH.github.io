@@ -7,11 +7,11 @@ redirect_from:
   - /resume
 ---
 
-{% CV - Ruiqi Shen.pdf %}
+{% include base_path %}
 
 Education
 ======
-<!-- * Ph.D in Computer Vision, Fudan  -->
+* Ph.D in Computer Vision
 * M.S. in Applied Machine Learning, Imperial College London, UK
 * B.S. in Eletronic and Information Engineering, Tianjin University, China
 
